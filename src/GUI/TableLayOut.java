@@ -1,13 +1,9 @@
 package GUI;
 
-import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.Container;
 import java.awt.Dimension;
-import java.awt.FlowLayout;
-import java.awt.Insets;
 import java.awt.LayoutManager;
-import java.lang.annotation.Retention;
 
 public class TableLayOut    implements LayoutManager{
 	

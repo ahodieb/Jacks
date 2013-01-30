@@ -7,7 +7,6 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 import javax.swing.DefaultListModel;
-import javax.swing.Icon;
 import javax.swing.JList;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
@@ -18,7 +17,6 @@ import Logic.ICallBack;
 
 public class SidePanel extends JPanel implements KeyListener {
 
-	
 	private JTextField txtSend; 
 	private JTextArea  chatArea;
 	private ICallBack callBack;

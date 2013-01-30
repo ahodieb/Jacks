@@ -9,9 +9,7 @@ import java.util.ArrayList;
 
 import javax.swing.JPanel;
 
-import Logic.ICallBack;
 import Logic.Logic;
-import Network.Connection;
 
 public class GamePanel extends JPanel implements ActionListener {
 	private static final long serialVersionUID = 1L;

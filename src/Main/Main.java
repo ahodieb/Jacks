@@ -4,7 +4,6 @@ import javax.swing.JOptionPane;
 
 import GUI.GameFrame;
 import GUI.SuitImages;
-import Network.Connection;
 import Network.Server;
 
 public class Main {
