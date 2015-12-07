@@ -33,6 +33,14 @@ But as the project's deadline approached all what mattered was to have something
 * The Table Layout was a failure , i  wanted to create a custom layout which was similar to the layout in real life . but it was the last thing to be implemented and due to the deadline it was ignored.
 
 ###How To Run / Use the code of the game:
+
+#### Get the code:
+
+- If you have git client:  
+```git clone https://github.com/AbdallahHodieb/Jacks.git```
+
+- If not download the code zip file by clicking on the download button above.
+
 ####RUN:
 * Run the server first adding the -Server flag :  java -jar Jacks.jar -Server
 * Run 4 clients or a client at each pc if available : java -jar Jacks.jar
